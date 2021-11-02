@@ -2,6 +2,9 @@
 A mini-game Rock, paper Scissors game writen in python!
 
 # How to install
+
+Be sure to have [Python3](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/installation/), and [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) installed. 
+
 To install the latest version of the program, enter the following commands:
 ```
 clone repository
