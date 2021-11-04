@@ -12,8 +12,8 @@ cd RockPaperScissors
 python3 -m venv .venv
 source .venv/bin/activate
 (.venv) $ python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-python3 main.py
+(.venv) python -m pip install -r requirements.txt
+(.venv) python3 main.py
 ```
 
 # Project Status
